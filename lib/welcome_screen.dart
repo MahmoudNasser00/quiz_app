@@ -51,7 +51,10 @@ class WelcomeScreen extends StatelessWidget {
                   MaterialPageRoute(builder: (_) => const LevelsScreen()),
                 );
               },
-              child: const Text("Play Now", style: TextStyle(fontSize: 18)),
+              child: const Text(
+                "Play Now",
+                style: TextStyle(fontSize: 18, color: Colors.white),
+              ),
             ),
             const SizedBox(height: 15),
             OutlinedButton(

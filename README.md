@@ -2,4 +2,4 @@
 
 ## App Demo 🎥
 
-![App Demo](assets/SmartSelect_Video_Player.gif)
+![App Demo](assets/SmartSelect_Video_Player.mp4)
